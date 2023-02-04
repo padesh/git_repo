@@ -1,6 +1,7 @@
 """
 A script to practice using functions.
 
+<<<<<<< HEAD
 A brilliant script written by Derrick. 
 """
 
