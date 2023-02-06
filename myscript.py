@@ -1,6 +1,15 @@
+"""
+A script to practice using functions.
+
+A brilliant script written by Derrick. 
+"""
+
+
 def add_numbers(num1, num2):
     """Add two things together"""
-    answer = num1 + num2
-    print(f"{num1} + {num2} is {answer}")
+    return num1 + num2
 
-add_numbers(2, 2)
+
+if __name__ == "__main__":
+    assert add_numbers(1, 1) == 2
+
